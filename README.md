@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damaris</h1>
-<h3 align="center">As a frontend developer, my work focuses on creating attractive, intuitive, and functional user interfaces. However, my curiosity and desire to understand the full scope of development have led me to explore the backend. Exploring backend development will not only expand my skill set but also provide me with a more comprehensive understanding of software development and web application architecture.
-</h3>
 
-- 🌱 I’m currently learning **Testing**
 
 - 📫 How to reach me **ramallodamaris@gmail.com**
 
